@@ -154,7 +154,6 @@ function jogar() {
     if(colisaoBloco(x,y)){
       tentativas--;
       if (tentativas==0) {
-        alert("vc é muito lerdo. perdeu otário!")
         voltarMenu();
       }else{
         alert("restão: "+tentativas);

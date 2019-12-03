@@ -75,7 +75,7 @@ function regras() {
   textSize(28);
   fill('black');
   
-  text('Aqui vao as regras', 40, 55);
+  text('Direcione o boneco para a resposta correta.'+ 'Evite tocar nos obstaculos encontrados ao longo do caminho', 40, 55);
 }
 
 

@@ -66,7 +66,7 @@ function jogar() {
           if (tentativas==0) {
              voltar = 1;
           } else {
-              alert("restam: "+tentativas+"tentativas");
+              alert("restam: "+tentativas+" tentativas");
               x = 600;
               y = 470; 
             }
@@ -81,7 +81,7 @@ function jogar() {
                         if (tentativas==0) {
                               voltar = 1;
               } else {
-                  alert("restam: "+tentativas+"tentativas");
+                  alert("restam: "+tentativas+" tentativas");
                   x = 600;
                   y = 470;
                 }
@@ -100,7 +100,7 @@ function jogar() {
                         voltar = 1;
                       } else{
 
-                          alert("restam: "+tentativas+"tentativas");
+                          alert("restam: "+tentativas+" tentativas");
                           x = 600;
                           y = 470;
                         }
@@ -116,7 +116,7 @@ function jogar() {
                           
                           voltar = 1;
                         } else{
-                            alert("restam: "+tentativas+"tentativas");
+                            alert("restam: "+tentativas+" tentativas");
                             x = 600;
                             y = 470;
                           }    

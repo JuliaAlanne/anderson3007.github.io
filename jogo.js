@@ -282,7 +282,7 @@ function sair() {
 }
 
 function voltarMenu() {
-  alert("vc é muito lerdo. perdeu otário!");
+  alert("você perdeu");
   tentativas=3;
   x=600;
   y=470;
